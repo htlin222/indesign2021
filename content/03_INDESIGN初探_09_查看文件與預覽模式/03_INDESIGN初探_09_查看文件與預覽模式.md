@@ -16,3 +16,7 @@ section h1 {
 
 ### 第03章 INDESIGN初探
 # 第09節 查看文件與預覽模式
+
+---
+
+![image-20210104003039098](https://i.loli.net/2021/01/04/8NBhJb1zXsDuI2o.png)

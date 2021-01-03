@@ -21,7 +21,7 @@ section h1 {
 
 
 
-![image-20201230234600254](../../../Library/Application Support/typora-user-images/image-20201230234600254.png)
+![image-20201230234600254](https://i.loli.net/2021/01/04/yjeBpE289km4rwg.png)
 
 #  文字轉外框
 
